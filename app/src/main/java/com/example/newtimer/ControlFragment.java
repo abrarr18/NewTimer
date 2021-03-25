@@ -32,6 +32,7 @@ public class ControlFragment extends Fragment implements View.OnClickListener{
             container.removeAllViewsInLayout();
         }
         int orientation = getActivity().getResources().getConfiguration().orientation;
+        
 
 
         // Inflate the layout for this fragment
